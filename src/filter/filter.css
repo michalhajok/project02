@@ -1,0 +1,12 @@
+.filterBar{
+	flex-basis: 100%;
+	display: flex;
+}
+
+.filterBar select{
+	background-color: #D980FA;
+	padding: 0.3em;
+}
+.filterBar option{
+	padding: 1em;
+}
