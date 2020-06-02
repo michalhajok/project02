@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Col, Jumbotron,Label, InputGroup, InputGroupText, Input, Button } from 'reactstrap'
+import { Col, Jumbotron,Label, InputGroup, Input, Button } from 'reactstrap'
 
 const Filter = ({category, setCategory}) => {
 	return (
